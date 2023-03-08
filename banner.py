@@ -1,7 +1,4 @@
-import os
-
-col, row= os.get_terminal_size()
-
+#!/bin/env python3
 
 banner = '''
    ▌ ▐· ▄▄▄· ▄▄▌  ▄▄▄ .▄▄▄  ▪  ▄▄▄ .
